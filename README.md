@@ -49,4 +49,5 @@ Test with JPG, JPEG, and PNG images. Try different brightness/contrast values an
 The project focuses on static-image processing topics, especially image enhancement, filtering, histogram-based processing, and edge detection. It does not use video processing, motion analysis, or 3D vision as core features.
 
 ## Author
-Ayush
+Ayush Makhija 
+24BAI10283
